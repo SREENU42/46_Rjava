@@ -1,3 +1,20 @@
+/*A method is a block of code that performs a specific task.
+//returnType methodName(parameters) {
+    /*code to execute
+}
+    public int multiply(int x, int y) {
+    return x * y;
+}
+    public → access modifier
+
+int → return type (returns integer)
+
+multiply → method name
+
+(int x, int y) → parameters
+
+return x * y; → method body (what it does)*/
+
 class Calculator {
     int add(int a, int b) {
         return a + b;
